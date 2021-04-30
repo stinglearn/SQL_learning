@@ -1,1 +1,2 @@
-# about the operation of SQL
+# about the operation of SQL.
+
